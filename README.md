@@ -5,8 +5,7 @@
 
 <!-- badges: end -->
 
-This package contains some functions for my thesis. Now I removed the
-change to test SSH.
+This package contains some functions for my thesis.
 
 This markdown file has been automatically generated using
 `devtools::build_readme()`, so there is a bunch of stuff I don’t need
