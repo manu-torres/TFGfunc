@@ -5,7 +5,8 @@
 
 <!-- badges: end -->
 
-This package contains some functions for my thesis.
+This package contains some functions for my thesis. A change to test ssh
+login.
 
 ## Installation
 
