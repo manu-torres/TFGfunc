@@ -1,24 +1,16 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # TFGfunc
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-The goal of TFGfunc is to …
+This package contains some functions for my thesis.
 
 ## Installation
 
-You can install the released version of TFGfunc from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("TFGfunc")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+You can install the development version from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
