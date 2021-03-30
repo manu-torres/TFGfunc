@@ -8,6 +8,11 @@
 This package contains some functions for my thesis. Now I removed the
 change to test SSH.
 
+This markdown file has been automatically generated using
+`devtools::build_readme()`, so there is a bunch of stuff I don’t need
+but I don’t want to delete yet. It makes the readme less sad than a
+blank page with nothing on it.
+
 ## Installation
 
 You can install the development version from
