@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: This package contains the functions for my thesis.
-License: What license is it under?
+License: Beerware
 Encoding: UTF-8
 LazyData: true
 Suggests: 
